@@ -7,7 +7,7 @@ Includes WASD mappings (up, left, down, right), escape to quit, space to shoot B
 
 ## References
 Background picture from: https://commons.wikimedia.org/wiki/File:Veil_Nebula_-_NGC6960.jpg
-Assets for project from: https://kenney.nl/assets/space-shooter-extension
+<p> Assets for project from: https://kenney.nl/assets/space-shooter-extension <p>
 
 ## Future Development
 None
